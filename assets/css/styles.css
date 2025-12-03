@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* navbar */
+.nav-logo {
+    width: 10vmin;
+}
+
+.nav-links {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.nav-links li a {
+    display: block;
+    text-decoration: none;
+    color: var(--fore-color);
+    text-align: center;
+    padding: 1.5vmax;
+}
+.nav-links li a:hover {
+    background-color: var(--hover-color);
+}
