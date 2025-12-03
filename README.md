@@ -58,6 +58,6 @@ Stay tuned for contribution guidelines and upcoming initiatives!
 
 ## Contact
 *Official contact information coming soon.*
-**Follow us on @TAOTH_organization(https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2FTAOTHorganization%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnY84fZ094VAUVhcLsnINTdMuZpLkoldYt0HnoQBqE5HU6JO5PW6e6g5VFGH0_aem_mDiXpF50HuLcWMzBQ2JmQA&e=AT28Lv7oSERC7FrrQcbUvnwmsjzhILciw3V_s5iqgmNCRvaNCQYd1uddBOy3wkZP1xri8856kNyMlv1wfFeXh_FN7972UXMzUdsNCWK68A) to receive updates, upcoming events, and volunteering opportunities.**
+**Contact us [here](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2FTAOTHorganization%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnY84fZ094VAUVhcLsnINTdMuZpLkoldYt0HnoQBqE5HU6JO5PW6e6g5VFGH0_aem_mDiXpF50HuLcWMzBQ2JmQA&e=AT28Lv7oSERC7FrrQcbUvnwmsjzhILciw3V_s5iqgmNCRvaNCQYd1uddBOy3wkZP1xri8856kNyMlv1wfFeXh_FN7972UXMzUdsNCWK68A) to receive updates, upcoming events, and volunteering opportunities.**
 ---
 
